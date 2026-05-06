@@ -12,7 +12,8 @@ Dashboard visualization (Power BI)
 Statistical modeling (Stata)
 
 Correlation analysis (IBM SPSS Statistics)
-__
+
+______
 
 ## 🎯 Business Objective
 To identify key drivers of revenue and profit, evaluate operational efficiency, and provide data-driven recommendations for improving business performance.
@@ -40,6 +41,7 @@ ______
 - Revenue and profit records
 
 - Customer data and bad debt
+  
 ______
 
 ## 📈 Key Analysis Performed
@@ -80,9 +82,9 @@ ______
 
 ---
 
-## 📈 Dashboard Overview
+### 📈 Dashboard Overview
 
-### The Power BI dashboard provides:
+#### The Power BI dashboard provides:
 
 - Revenue and Profit KPIs
 
@@ -96,12 +98,60 @@ ______
 
 ______
 
-## 🔑 Key Findings
-- Revenue is strongly driven by sales volume (R² = 0.784)
-- Cost significantly reduces profitability
+## 🔑 Key Insights
+
+- Production increases both revenue and cost simultaneously
+  
 - Production scale does not guarantee profit
+
+- Revenue is strongly driven by sales volume (R² = 0.784)
+
+- Business performance shows fluctuations over time
+
+- Cost escalation is the main constraint on profitability
+
 ______
 
+## 💡 Recommendations
+
+- Implement strict cost control measures
+
+- Optimize production planning
+
+- Improve labour and material efficiency
+
+- Expand customer base to reduce concentration risk
+
+- Strengthen credit control policies
+
+______
+
+## 📸 Dashboard Preview
+
+(Insert screenshot of your Power BI dashboard here)
+
+______
+
+
+## 📂 Project Files
+
+/data → Dataset (Excel)
+
+/dashboard → Power BI file (.pbix)
+
+/report → Final PDF Report
+
+/analysis → Stata & SPSS outputs
+
+______
+
+## 🚀 Author
+
+[Ismail Gafar Olajide]
+Data Analyst | Business Intelligence Enthusiast
+
+
+*****
 ## 📁 Project Structure
 /**Dataset** →  *Raw-data:* [Raw](https://github.com/Gafar-olajide/Determinants-of-Multiple-Sexual-Partnership-among-Undergraduate-Students-OAU-/blob/main/D-MSP%20RAW_DATASET%20from%20Google%20form.csv)
                 *Cleaned-data:* [String](https://github.com/Gafar-olajide/Determinants-of-Multiple-Sexual-Partnership-among-Undergraduate-Students-OAU-/blob/main/D_MSP%20DATASET%20CLEANING%20ON%20EXCEL%20(String-%20Variables).csv) | [Numeric](https://github.com/Gafar-olajide/Determinants-of-Multiple-Sexual-Partnership-among-Undergraduate-Students-OAU-/blob/main/D_MSP%20DATASET%20CLEANING%20ON%20EXCEL%20(Numeric-%20Variables).csv) 
