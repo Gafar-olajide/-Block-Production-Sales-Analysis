@@ -1,4 +1,4 @@
-# 📊  Block Production & Sales Performance Analysis 
+# 🧱 Block Production & Sales Performance Analysis 
 
 ## 🔍 Project Overview:
 This project presents a comprehensive data analysis of a block manufacturing business (2021–2025), focusing on production efficiency, sales performance, cost structure, and profitability.
@@ -126,9 +126,9 @@ ______
 
 ______
 
-## 📸 Dashboard Preview
+## 📈 Visual Analysis
 
-(Insert screenshot of your Power BI dashboard here)
+(Insert your 5 charts screenshots here)
 
 ______
 
