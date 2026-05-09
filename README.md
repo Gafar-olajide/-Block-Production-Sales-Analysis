@@ -142,13 +142,6 @@ ______
 
 /analysis → Stata & SPSS outputs
 
-______
-
-## 🚀 Author
-
-[Ismail Gafar Olajide]
-Data Analyst | Business Intelligence Enthusiast
-
 
 *****
 ## 📁 Project Structure
@@ -167,8 +160,9 @@ Data Analyst | Business Intelligence Enthusiast
 
 /**Visuals** → *Single-Barcharts:* [Age-group](https://github.com/Gafar-olajide/Determinants-of-Multiple-Sexual-Partnership-among-Undergraduate-Students-OAU-/blob/main/Age-group%20of%20respondents.png) | [Ever had sexual intercourse](https://github.com/Gafar-olajide/Determinants-of-Multiple-Sexual-Partnership-among-Undergraduate-Students-OAU-/blob/main/Ever%20had%20sexual%20intercourse.png) | [Multiple sexual partners in the last 12-months](https://github.com/Gafar-olajide/Determinants-of-Multiple-Sexual-Partnership-among-Undergraduate-Students-OAU-/blob/main/Multiple%20sexual%20partners%20in%20the%20last%2012-months.png)  &  *Cluster-Barcharts:* [Living arrangement](https://github.com/Gafar-olajide/Determinants-of-Multiple-Sexual-Partnership-among-Undergraduate-Students-OAU-/blob/main/Living%20arrangement.png) | [Agecategory of sexual intercourse](https://github.com/Gafar-olajide/Determinants-of-Multiple-Sexual-Partnership-among-Undergraduate-Students-OAU-/blob/main/Agecategory%20of%20sexual%20intercourse.png)
 
-
 ______
 
-📌 Conclusion:
-The findings suggest that behavioral and environmental factors such as early sexual exposure and living conditions play a significant role in influencing risky lifestyle behaviors among students.
+## 🚀 Author
+
+[Ismail Gafar Olajide]
+Data Analyst | Business Intelligence Enthusiast
