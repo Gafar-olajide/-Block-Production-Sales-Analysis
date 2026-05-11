@@ -129,6 +129,7 @@ ______
 ## 📈 Visual Analysis
 
 (Insert your 5 charts screenshots here)
+<img width="328" height="164" alt="Correlation Between Key Business Variables" src="https://github.com/user-attachments/assets/8aac78bd-5c31-47c8-aa0f-6469373c851f" />
 
 ______
 
@@ -145,7 +146,7 @@ ______
 /**Report** → [Final PDF Report](https://github.com/Gafar-olajide/-Block-Production-Sales-Analysis/blob/main/Block%20Production%20%26%20Sales%20Performance%20Analysis.pdf)
 
 
-/**Visuals** → *Heatmap:* [Correlation Between Key Business Variables](https://github.com/Gafar-olajide/-Block-Production-Sales-Analysis/blob/main/Correlation%20Between%20Key%20Business%20Variables.png)  *Barchart:* [Product Contribution to Sales and Profit](https://github.com/Gafar-olajide/-Block-Production-Sales-Analysis/blob/main/Product%20Contribution%20to%20Sales%20and%20Profit.png)  *Scatter-Plots:* [Impact of Production Cost on Profitability](https://github.com/Gafar-olajide/-Block-Production-Sales-Analysis/blob/main/Impact%20of%20Production%20Cost%20on%20Profitability.png) | [Revenue Growth Driven by Sales Volume](https://github.com/Gafar-olajide/-Block-Production-Sales-Analysis/blob/main/Revenue%20Growth%20Driven%20by%20Sales%20Volume.png)  & *Linechart:* [Revenue Trend Over Time](https://github.com/Gafar-olajide/-Block-Production-Sales-Analysis/blob/main/Revenue%20Trend%20Over%20Time.png)
+/**Visuals** → *Heatmap:* [Correlation Between Key Business Variables](https://github.com/Gafar-olajide/-Block-Production-Sales-Analysis/blob/main/Correlation%20Between%20Key%20Business%20Variables.png)  *Cluster-Barchart:* [Product Contribution to Sales and Profit](https://github.com/Gafar-olajide/-Block-Production-Sales-Analysis/blob/main/Product%20Contribution%20to%20Sales%20and%20Profit.png)  *Scatter-Plots:* [Impact of Production Cost on Profitability](https://github.com/Gafar-olajide/-Block-Production-Sales-Analysis/blob/main/Impact%20of%20Production%20Cost%20on%20Profitability.png) | [Revenue Growth Driven by Sales Volume](https://github.com/Gafar-olajide/-Block-Production-Sales-Analysis/blob/main/Revenue%20Growth%20Driven%20by%20Sales%20Volume.png)  & *Linechart:* [Revenue Trend Over Time](https://github.com/Gafar-olajide/-Block-Production-Sales-Analysis/blob/main/Revenue%20Trend%20Over%20Time.png)
 
 /**Dashboard** → Power BI file (.pbix)
 ______
