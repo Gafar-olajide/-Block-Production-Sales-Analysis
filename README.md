@@ -148,8 +148,7 @@ ______
 /**Dataset** →  [Raw-data + Pivot Tables](https://github.com/Gafar-olajide/-Block-Production-Sales-Analysis/blob/main/Block%20Production%20%26%20Sales%20Performance%20Analysis.xlsx)
 
 
-/**Syntax** → [STATA](https://github.com/Gafar-olajide/Determinants-of-Multiple-Sexual-Partnership-among-Undergraduate-Students-OAU-/blob/main/STATA_ANALYSIS-SYNTAX%20ON%20D_MSP(Univirate%20%26%20Bivarate).txt) | [SPSS](https://github.com/Gafar-olajide/Determinants-of-Multiple-Sexual-Partnership-among-Undergraduate-Students-OAU-/blob/main/SPSS_ANALYSIS-SYNTAX%20OF%20D_MSP(Descriptive_Statistics%20%26%20Crosstab_Chis-quare).txt)
-
+/**Syntax** → [STATA](https://github.com/Gafar-olajide/Determinants-of-Multiple-Sexual-Partnership-among-Undergraduate-Students-OAU-/blob/main/STATA_ANALYSIS-SYNTAX%20ON%20D_MSP(Univirate%20%26%20Bivarate).txt) | [SPSS](https://github.com/Gafar-olajide/-Block-Production-Sales-Analysis/blob/main/CORRELATION_ANALYSIS-SYNTAX%20ON%20PRODUCTION.txt)
 
 /**Output** → [STATA](https://github.com/Gafar-olajide/Determinants-of-Multiple-Sexual-Partnership-among-Undergraduate-Students-OAU-/blob/main/STATA_ANALYSIS-OUTPUT%20ON%20D_MSP(Univirate%20%26%20Bivarate).log) | [SPSS](https://github.com/Gafar-olajide/Determinants-of-Multiple-Sexual-Partnership-among-Undergraduate-Students-OAU-/blob/main/SPSS_ANALYSIS-OUTPUT%20ON%20D_MSP(Descriptive_Frequncies%20%26%20Crosstab_Chis-quare).pdf)
 
