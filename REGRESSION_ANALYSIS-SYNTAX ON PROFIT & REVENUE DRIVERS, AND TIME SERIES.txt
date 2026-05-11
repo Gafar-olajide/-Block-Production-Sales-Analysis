@@ -1,0 +1,29 @@
+*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+*PROJECT NAME:Production & Sales Analysis of a Block Manufacturing Business (2021–2025)
+*LAST MODIFICATION: 10 JAN 2026, 14:30:40
+*AUTHOR: ISMAIL GAFAR OLAJIDE
+*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+//SET-UP
+
+	clear
+	cd "C:\Users\HP\Documents\DATA ANALYSIS\STATA\MY PROJECT"
+	use "BLOCK PRODUCTION & SALES_DATA.dta"
+	log using "REGRESSION_ANALYSIS-OUTPUT ON PROFIT & REVENUE DRIVERS, AND TIME SERIES.smcl",replace
+
+	set more off
+*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+*REGRESSION ANALYSIS:
+
+*1). PROFIT DRIVER
+	reg TotalProfit TotalQtySold TotalCost TotalBadDebt
+
+*2). REVENUE DRIVER
+	reg Revenue QtySold Rate
+
+*3). TIME SERIES
+	reg Revenue DateOfSales
+
+*>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+log close
