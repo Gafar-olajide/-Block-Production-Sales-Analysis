@@ -156,7 +156,7 @@ ______
 /**Report** → [Final PDF Report](https://github.com/Gafar-olajide/-Block-Production-Sales-Analysis/blob/main/Block%20Production%20%26%20Sales%20Performance%20Analysis.pdf)
 
 
-/**Visuals** → *Heatmap:* Correlation Between Key Business Variables | *Barchart:* Product Contribution to Sales and Profit ,*Scatter-Plots:* Impact of Production Cost on Profitability | Revenue Growth Driven by Sales Volume & *Linechart:* Revenue Trend Over Time
+/**Visuals** → *Heatmap:* [Correlation Between Key Business Variables](https://github.com/Gafar-olajide/-Block-Production-Sales-Analysis/blob/main/Correlation%20Between%20Key%20Business%20Variables.png) ,*Barchart:* Product Contribution to Sales and Profit ,*Scatter-Plots:* Impact of Production Cost on Profitability | Revenue Growth Driven by Sales Volume & *Linechart:* Revenue Trend Over Time
 
 /**Dashboard** → Power BI file (.pbix)
 ______
