@@ -128,8 +128,9 @@ ______
 
 ## 📈 Visual Analysis
 
-(Insert your 5 charts screenshots here)
 <img width="328" height="164" alt="Correlation Between Key Business Variables" src="https://github.com/user-attachments/assets/8aac78bd-5c31-47c8-aa0f-6469373c851f" />
+
+<img width="752" height="452" alt="Product Contribution to Sales and Profit" src="https://github.com/user-attachments/assets/d72ade89-8fa6-4559-9d1d-a94603045e61" />
 
 ______
 
