@@ -132,6 +132,12 @@ ______
 
 <img width="752" height="452" alt="Product Contribution to Sales and Profit" src="https://github.com/user-attachments/assets/d72ade89-8fa6-4559-9d1d-a94603045e61" />
 
+<img width="750" height="450" alt="Impact of Production Cost on Profitability" src="https://github.com/user-attachments/assets/14241b56-e13f-4530-a639-c1f65f3c21f9" />
+
+<img width="752" height="452" alt="Revenue Growth Driven by Sales Volume" src="https://github.com/user-attachments/assets/6fab0748-60f8-41c1-b992-a9461e1730b8" />
+
+<img width="755" height="450" alt="Revenue Trend Over Time" src="https://github.com/user-attachments/assets/6f2eb8e5-3126-47d0-89f6-99ba51f53308" />
+
 ______
 
 
